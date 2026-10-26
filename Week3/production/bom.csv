@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2",Untitled,2,LED,
+J1,Capictive Keys Midi,1,Conn_01x07,
+"SW1, SW2",SW_Cherry_MX_1.00u_PCB,2,SW_Push,
+SW4,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch_MP,
+U2,XIAO-ESP32C3-DIP,1,XIAO-ESP32-C3-DIP,
